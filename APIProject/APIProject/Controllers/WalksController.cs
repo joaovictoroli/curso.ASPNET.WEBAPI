@@ -110,7 +110,7 @@ namespace APIProject.Controllers
 
             if (walkDomain == null)
             {
-                return NotFound();  
+                return NotFound();
             }
 
             var walkDTO = mapper.Map<Models.DTO.Walk>(walkDomain);
