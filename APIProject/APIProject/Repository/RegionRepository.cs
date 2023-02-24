@@ -48,7 +48,7 @@ namespace APIProject.Repository
 
         public async Task<Region> UpdateAsync(Guid id, Region region)
         {
-            var existingRegion = await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
+            var existingRegion = await dbContext.Regions.FindAsync(id);
 
             if (existingRegion == null)
             {
