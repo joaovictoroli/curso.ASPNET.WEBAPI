@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qLCNY6BKUxHxOqTNyUs30bqCIVmCchR3MMtVIjhijCRQJ4JnthL2W5wAefMpQv5dvBRjCRTVia62n/3jI66+FQ==",
+  "dgSpecHash": "rVWDwXaebcSlSmILyQY2rYlENkGusQa/TP2VYKEezERsKkjAxocgk825rqESF/wFlwTrl+q2Ntuzxz1ASMBa6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaov\\OneDrive\\Área de Trabalho\\projetos\\curso.ASPNET.WEBAPI\\curso.ASPNET.WEBAPI\\APIProject\\APIProject\\APIProject.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\joaov\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.3\\fluentvalidation.aspnetcore.11.0.3.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.3\\fluentvalidation.dependencyinjectionextensions.11.0.3.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

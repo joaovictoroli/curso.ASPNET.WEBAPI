@@ -70,10 +70,10 @@ namespace APIProject.Controllers
         {
             //validate request
 
-            if (!ValidadeAddRegionAsync(addRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ValidadeAddRegionAsync(addRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
 
             //request(DTO) to domain model
@@ -139,10 +139,10 @@ namespace APIProject.Controllers
 
             //validate request
 
-            if (!ValidateUpdateRegionAsync(updateRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ValidateUpdateRegionAsync(updateRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
             //Convert DTO to Domain Model
             var region = new Models.Domain.Region

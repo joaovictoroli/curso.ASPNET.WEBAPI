@@ -47,10 +47,10 @@ namespace APIProject.Controllers
         public async Task<IActionResult> AddWalkDifficultiesAsync(AddWalkDifficulttyRequest addWalkDifficulttyRequest)
         {
 
-            if (!ValidateAddWalkDifficultyRequest(addWalkDifficulttyRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ValidateAddWalkDifficultyRequest(addWalkDifficulttyRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
             var walkDifficultyDomain = new Models.Domain.WalkDifficulty
             {
@@ -70,10 +70,10 @@ namespace APIProject.Controllers
         public async Task<IActionResult> UpdateWalkDifficultyAsync(Guid id,
             UpdateWalkDifficultyRequest updateWalkDifficultyRequest)
         {
-            if (!ValidateUpdateWalkDifficultyRequest(updateWalkDifficultyRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if (!ValidateUpdateWalkDifficultyRequest(updateWalkDifficultyRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
 
             var walkDifficultyDomain = new Models.Domain.WalkDifficulty
             {
