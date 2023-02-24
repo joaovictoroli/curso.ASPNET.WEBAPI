@@ -87,3 +87,7 @@ C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASP
 C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\projetos\curso.ASPNET.WEBAPI\curso.ASPNET.WEBAPI\APIProject\APIProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
